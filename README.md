@@ -4,10 +4,8 @@ Online-Grocery-Store
 Online Grocery Store is an eCommerce based web application for our Web Programming project. We had developed a sample in which user can search and find necessary information about any grocery item, can proceed to checkout to buy products. User can create an account, update personal information, can check its past activities, orders and transactions, and cart items.
 
 GitHub Repository
-https://github.com/ParasGarg/Online-Grocery-Store/
+https://github.com/vindhyaachyuta/Online-Grocery-Store/
 
-Project Presentation
-https://drive.google.com/file/d/0B79vfV-wa7EZME9WVmsxTEpzMjg/view?usp=sharing
 
 Technologies Used
 Frontend Languages: HTML, CSS, and Client-Side JavaScript Frontend Framework: Bootstrap Frontend Library: jQuery Backend: Server-Side JavaScript Backend Framework: NodeJS and NPM Database: MongoDB Other Libraries: Tota11y, and HTML Validator Tools: MS Visual Code, MS Command Panel
